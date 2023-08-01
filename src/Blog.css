@@ -1,0 +1,41 @@
+.Navbar
+{
+    display: grid;
+   
+    align-items: center;
+    background-color: rgba(200, 233, 222, 0.216);
+}
+.content
+{
+    display: grid;
+    justify-content: center;
+    text-align: left;
+    background-color: rgba(200, 233, 222, 0.216); 
+}
+
+.nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.container{
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 20px;
+}
+.btn2
+{
+    margin-left: 10px;
+    background: rgb(53, 53, 95);
+    color:white;
+    border-radius: 2px;
+}
+.btn2:hover{
+    color: rgb(53, 53, 95);
+    background:white;
+}
+.btn1
+{
+    color:red;
+
+}

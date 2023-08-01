@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,19 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.avatar {
+  border-radius: 50%;
+  border: 2px solid black;
+}
+.container
+{
+  background-color: rgba(137, 43, 226, 0.249);
+  font-family: cursive;
+  display: grid;
+}
+button
+{
+  background-color: rgba(0, 128, 0, 0.198);
+  border-radius: 2px;
 }

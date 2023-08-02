@@ -9,7 +9,7 @@ function MyApp()
 return(
   <div className='container'>
   <Navbar/>
-  <hr></hr>
+  <hr/>
 <Content/>
   </div>
 )

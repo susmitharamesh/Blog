@@ -1,16 +1,14 @@
 .Navbar
 {
     display: grid;
-   
-    align-items: center;
-    background-color: rgba(200, 233, 222, 0.216);
+   align-items: center;
+    background-color: rgba(243, 50, 188, 0.571);
+    color:yellow;
 }
 .content
 {
     display: grid;
-    justify-content: center;
-    text-align: left;
-    background-color: rgba(200, 233, 222, 0.216); 
+    background-color: rgba(71, 66, 224, 0.829); 
 }
 
 .nav{

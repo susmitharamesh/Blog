@@ -1,5 +1,7 @@
 import React from 'react';
+import Content from './Content';
 const Navbar=()=>{
+ 
     return(
         <div className='Navbar'>
             <div className='nav'>
